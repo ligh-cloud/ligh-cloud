@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ligh-cloud&" alt="ligh-cloud" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ligh-cloud)](https://github.com/ligh-cloud/github-readme-stats)
+
