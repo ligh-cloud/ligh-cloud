@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HATIM BELGHITI</h1>
-<h3 align="center">a dedicated full-stack web developer with a strong foundation in modern web technologies.</h3>
+<h3 align="center">A dedicated full-stack web developer with a strong foundation in modern web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ligh-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="ligh-cloud" /> </p>
 
