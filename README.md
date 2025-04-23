@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-belghiti-7ba662277/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://your-portfolio-link.com](https://hatim-portfolio-bay.vercel.app/))
 
 
 # 💻 Tech Stack:
